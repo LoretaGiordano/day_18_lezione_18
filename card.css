@@ -1,0 +1,33 @@
+.photo{
+    width: 450px;
+    height: 450px;
+    background-image: url(./assets/imgs/honey.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+}
+
+.texts{
+    width: 450px;
+    height: 150px;
+    background-color: rgb(235, 204, 79);
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+
+.text_1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(46, 18, 18);
+    font-weight: 600;
+}
+
+.text_2{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text_3{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
